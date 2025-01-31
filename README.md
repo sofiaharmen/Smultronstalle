@@ -2,4 +2,4 @@ Hello there! This is my project "Smultronställe" which I created in connection 
 
 A look into this world can be seen on YouTube here: https://youtu.be/Kwg6ZiOVyPE
 
-![alt text](https://github.com/sofiaharmen/Smultronstalle/Presentation/smultronställe_intro.png?raw=true)
+![alt text](https://github.com/sofiaharmen/Smultronstalle/blob/main/smultronställe_intro.png?raw=true)
